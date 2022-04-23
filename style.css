@@ -49,7 +49,27 @@ h1 {
 }
 
 .experience-subdiv {
-    padding-left: 6%;
+    padding-left: 3%;
+    padding-right: 3%;
     width: 40%;
     text-align: justify;
+    box-shadow: 3px 5px 20px #119759;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+.experience-period {
+    color: rgb(255, 94, 0);
+}
+
+#fullstack-id1 {
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(225, 0, 255), rgb(38, 0, 255));
+    border-image-slice: 4;
+}
+
+#fullstack-id2 {
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(175, 0, 73), rgb(182, 170, 0));
+    border-image-slice: 4;
 }
